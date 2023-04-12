@@ -1,11 +1,11 @@
 # projeto-the-last-of-us
 
->Estado do projeto: Concluído.
+>Status do projeto: Concluído.
 
 Projeto criado na semana do 0 ao desenvolvedor @DevEmDobro no youtube
 
 ```
-tecnologias utilizadas: HTML, CSS e JavaScript
+tecnologias utilizadas: HTML, CSS e JavaScript.
 ```
 
 Ideia do projeto foi mostrar o trio de tecnologias utilizadas no meio do desenvolvimento web.
